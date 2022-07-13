@@ -1,2 +1,1 @@
-# Mandor_Badsha 
-hajizafar@mandor.com
+http:github.com/hajizafar@mandor.com
